@@ -3,6 +3,6 @@
 	<titel> Application crashes upon clicking the SAVE button while creating a new user </titel>
 	<severity> high </severity>
 	<priority> high </priority>
-	<steps to reproduce> 1)Login into the Application </steps to reproduce>
-  <expected result> On clicking the SAVE button, you should be prompted to a successful message </expected result>
+	<steps_to_reproduce> 1)Login into the Application </steps_to_reproduce>
+  <expected_result> On clicking the SAVE button, you should be prompted to a successful message </expected_result>
 </favorite>
