@@ -1,1 +1,8 @@
-
+<?xml version="1.0"?>
+  <id> 4 </id>
+	<titel> Application crashes upon clicking the SAVE button while creating a new user </titel>
+	<severity> high </severity>
+	<priority> high </priority>
+	<steps to reproduce> 1)Login into the Application </steps to reproduce>
+  <expected result> On clicking the SAVE button, you should be prompted to a successful message </expected result>
+</favorite>
